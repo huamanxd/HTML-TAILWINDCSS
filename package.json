@@ -1,0 +1,27 @@
+{
+  "name": "html-tailwindcss",
+  "version": "1.0.0",
+  "description": "Realizando pagina con tailwindcss Practicando fast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huamanxd/HTML-TAILWINDCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/huamanxd/HTML-TAILWINDCSS/issues"
+  },
+  "homepage": "https://github.com/huamanxd/HTML-TAILWINDCSS#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.3.3"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3"
+  }
+}
